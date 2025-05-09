@@ -18,7 +18,7 @@ The system detects faces in an uploaded image and annotates them with the corres
 
 ## Project Structure
 
-- `emotion_detection.ipynb` – Jupyter Notebook with code for loading the model, detecting faces, predicting emotions, and visualizing results.
+- `emotiondetection.ipynb` – Jupyter Notebook with code for loading the model, detecting faces, predicting emotions, and visualizing results.
 - `emotion_model.h5` – Pre-trained Mini-XCEPTION emotion recognition model.
 - `README.md` – Project documentation.
 
